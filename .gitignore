@@ -130,3 +130,7 @@ dmypy.json
 
 # Mac .DS_Store
 **/.DS_Store
+
+# Ignore data and logs
+data/*
+logs/*
